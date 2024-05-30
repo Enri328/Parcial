@@ -46,6 +46,7 @@ section{
 }article img{
     float: left;
     margin: 10px;
+    flex-wrap: wrap;
 }
 h2{
     height: 50px;
